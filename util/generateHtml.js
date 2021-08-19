@@ -1,7 +1,5 @@
-// create the team
 const generateTeam = team => {
 
-    // create the manager html
     const generateManager = manager => {
         return `
         <div class="card employee-card">
@@ -20,7 +18,6 @@ const generateTeam = team => {
         `;
     };
 
-    // create the html for engineers
     const generateEngineer = engineer => {
         return `
         <div class="card employee-card">
@@ -39,7 +36,6 @@ const generateTeam = team => {
         `;
     };
 
-    // create the html for interns
     const generateIntern = intern => {
         return `
         <div class="card employee-card">
@@ -79,13 +75,11 @@ const generateTeam = team => {
 
 }
 
-// export function to generate entire page
 module.exports = team => {
 
     return `
     <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -96,7 +90,6 @@ module.exports = team => {
     <link rel="stylesheet" href="style.css">
     <script src="https://kit.fontawesome.com/c502137733.js"></script>
 </head>
-
 <body>
     <div class="container-fluid">
         <div class="row">
