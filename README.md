@@ -8,8 +8,6 @@
 # Picture Example
 ![example2](https://user-images.githubusercontent.com/51279438/130158028-b5fbd511-6cd1-4f53-b8c0-e4ca04c7c570.png)
 
-
-
 # Video Example
-
+https://drive.google.com/file/d/1c_Zt3rf7QqbFpOf-ndMBF3nYwpR8mTiS/view
 # Github
